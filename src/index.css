@@ -33,7 +33,7 @@
     border-radius: 3px; 
 }
 
-.weather-card {
+.weather-cards {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -42,7 +42,7 @@
     margin: 20px;
 }
 
-.weather-cards {
+.weather-card {
     display: flex;
     flex-direction: column;
     align-items: center;
